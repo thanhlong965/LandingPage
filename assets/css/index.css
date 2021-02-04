@@ -11,3 +11,6 @@ html{
     text-rendering: optimizeLegibility;
 }
 /* Header */
+.logo{
+    width: 350px;
+}
